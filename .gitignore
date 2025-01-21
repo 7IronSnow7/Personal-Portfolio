@@ -1,0 +1,5 @@
+# Allow specific files to be tracked
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+**/_pycache_
