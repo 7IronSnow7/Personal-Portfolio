@@ -1,6 +1,8 @@
 import streamlit as st
 from forms.contact import contact_form
 
+st.write(f"Streamlit version: {st.__version__}")
+
 @st.dialog("Contact Me")
 def show_contact_form():
     contact_form()
