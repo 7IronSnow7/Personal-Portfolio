@@ -10,6 +10,10 @@ project_1_page = st.Page(
     page="views/chatbot.py",
     title="Chat Bot"
 )
+project_2_page = st.Page(
+    page="views/scanner_ui.py",
+    title="Web Security Scanner"
+)
 
 # --- NAVIGATION SETUP [WITHOUT SECTIONS] ---
 pg = st.navigation(
