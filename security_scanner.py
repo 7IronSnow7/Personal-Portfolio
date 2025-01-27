@@ -8,6 +8,9 @@ from concurrent.futures import ThreadPoolExecutor
 import sys
 from typing import List, Dict, Set
 
+print("Python executable:", sys.executable)
+print("BeautifulSoup imported successfully!")
+
 class WebSecurityScanner:
     def __init__(self, target_url: str, max_depth: int = 3):
         """
