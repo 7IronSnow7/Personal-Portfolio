@@ -1,5 +1,5 @@
 import streamlit as st
-from security_scanner import WebSecurityScanner
+from forms.streamlit_app import *
 from io import StringIO
 import pandas as pd
 
