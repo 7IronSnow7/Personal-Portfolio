@@ -44,3 +44,4 @@ def contact_form():
                 st.success("Your message has sent successfully!", icon="🚀")
             else:
                 st.error("There was an error sending your message.", icon="🤯")
+                
