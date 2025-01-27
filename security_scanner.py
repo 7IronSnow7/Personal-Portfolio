@@ -8,6 +8,7 @@ from concurrent.futures import ThreadPoolExecutor
 import sys
 from typing import List, Dict, Set
 
+print("hello")
 print("Python executable:", sys.executable)
 print("BeautifulSoup imported successfully!")
 
