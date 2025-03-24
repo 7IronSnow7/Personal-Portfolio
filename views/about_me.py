@@ -65,6 +65,7 @@ with st.expander("Project Lead | Sebonack (NYC) | June 2023 – Present"):
         • Applied strong problem-solving skills to anticipate and resolve
           operational issues, ensuring every event met the organization’s
           professional standards.
+          
         """
     )
 
