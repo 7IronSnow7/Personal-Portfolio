@@ -96,5 +96,11 @@ if st.button("Start Scan"):
     if link:
         st.markdown(f"**Learn More:** [OWASP Guide](https://www.parasoft.com/blog/sensitive-data-exposure-owasp-top-10/)")
     
+st.markdown("---")
+st.markdown(f"""
+<p align="center">
+    Check out the source code for this Scanner UI on <a href="https://github.com/7IronSnow7/Personal-Portfolio/blob/master/views/scanner_ui.py" target="_blank">GitHub</a>.
+</p>
+""", unsafe_allow_html=True)
     # Maybe add in an email feature
     # Looking to add a simple platformer game
