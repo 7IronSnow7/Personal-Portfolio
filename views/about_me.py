@@ -7,10 +7,22 @@ st.write(f"Streamlit version: {st.__version__}")
 def show_contact_form():
     contact_form()
 
+
 # --- HERO SECTION ---
+st.markdown(
+    """
+    <style>
+    .stImage {
+        border-radius: 10px;
+        overflow: hidden 
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 col1, col2 = st.columns(2, gap="small", vertical_alignment="center")
 with col1:
-    st.image("./assets/Divan De Bruin.jpg", width=230)
+    st.image("./assets/Divan De Bruin.jpg", width=600)
 with col2:
     st.title("Divan De Bruin",  anchor="False")
     st.write("Developer in the Making")

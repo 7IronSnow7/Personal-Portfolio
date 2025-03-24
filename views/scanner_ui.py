@@ -102,5 +102,3 @@ st.markdown(f"""
     Check out the source code for this Scanner UI on <a href="https://github.com/7IronSnow7/Personal-Portfolio/blob/master/views/scanner_ui.py" target="_blank">GitHub</a>.
 </p>
 """, unsafe_allow_html=True)
-    # Maybe add in an email feature
-    # Looking to add a simple platformer game
