@@ -57,19 +57,21 @@ st.write("\n")
 st.subheader("Qualifications", anchor=False)
 st.write(
     """
-Bachelor of Commerce – Marketing Management| IIE Varsity College Durban North| 2015 – 2017
-• Developed a solid foundation in marketing, business principles, and strategic communication.
-Honors in Management & Leadership | IIE Varsity College Durban North| 2018
-• Explored advanced concepts in leadership, organizational management, and decision-making strategies.
+Bachelor of Commerce – Marketing Management | IIE Varsity College Durban North | 2015 – 2017
+
+Developed a solid foundation in marketing, business principles, and strategic communication.
+Honors in Management & Leadership | IIE Varsity College Durban North | 2018
+
+Explored advanced concepts in leadership, organizational management, and decision-making strategies.
 C# and JavaScript Bootcamp | School of IT - Bootcamp | 2023
-• Explored advanced concepts in leadership, organizational management, and decision-making strategies.
+
+Explored advanced concepts in leadership, organizational management, and decision-making strategies.
 Foundational C# with Microsoft | Microsoft - Online | 2024
-• Gained foundational expertise in C# for .NET development, with a focus on efficient design, code optimization,
-and debugging techniques.
-Python for Computer Science (CS50) | Harvard University- Online | Ongoing
-• Engaging in a comprehensive study of Python programming, covering core concepts in algorithms, data
-structures, and software engineering practices. Focused on building practical, real-world applications and
-problem-solving skills.
+
+Gained foundational expertise in C# for .NET development, with a focus on efficient design, code optimization, and debugging techniques.
+Python for Computer Science (CS50) | Harvard University - Online | Ongoing
+
+Engaging in a comprehensive study of Python programming, covering core concepts in algorithms, data structures, and software engineering practices. Focused on building practical, real-world applications and problem-solving skills.
     """
 )
 st.write("\n")
