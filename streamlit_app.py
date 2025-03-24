@@ -35,6 +35,6 @@ st.html("""
   </style>
     """)
 
-st.logo("assets/logo.png")
+st.logo("assets/logo_trans_bg.png")
 # --- RUN NAVIGATION ---
 pg.run()
